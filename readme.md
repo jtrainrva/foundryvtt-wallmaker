@@ -1,8 +1,10 @@
 # Overview
 FoundryVTTWallmaker is a Julia script that draws walls for Foundry Virtual Tabletop from a source image. The main goal was to facilitate using image manipulation software to draw walls instead of Foundry's editor.
 
-# Example
+# Installation
+Install Julia 1.10 or later, clone the repository, then run `julia install_dependencies.jl` to install the necessary packages.
 
+# Example
 Consider this map of a star destroyer.
 
 <img src="./ship_base_map.jpg" alt="Star Destoyer Map" width="800"/>
