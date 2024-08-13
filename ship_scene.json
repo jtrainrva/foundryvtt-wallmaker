@@ -1,0 +1,74 @@
+{
+  "folder": "yHdVBb5so1NP27cA",
+  "name": "Test 2 (Copy)",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "worlds/mh-game/Deckplan_2.jpg",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0
+  },
+  "foregroundElevation": 40,
+  "width": 5568,
+  "height": 2688,
+  "padding": 0,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 64,
+    "color": "#000000",
+    "alpha": 0.95,
+    "distance": 10,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1723329145643,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "flags": {
+    "exportSource": {
+      "world": "mh-game",
+      "system": "ars",
+      "coreVersion": "11.315",
+      "systemVersion": "2024.05.02"
+    },
+    "token-attacher": {}
+  },
+  "_stats": {
+    "systemId": "ars",
+    "systemVersion": "2024.05.02",
+    "coreVersion": "11.315",
+    "createdTime": 1723329145644,
+    "modifiedTime": 1723341116711,
+    "lastModifiedBy": "UvC5ySpa3OeA6AMN"
+  },
+  "foreground": null,
+  "thumb": "worlds/mh-game/assets/scenes/rRSxyehWohAAq47d-thumb.webp",
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "weather": ""
+}
